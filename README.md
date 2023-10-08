@@ -3,7 +3,6 @@ This repository serves as a comprehensive collection of my various Machine Learn
 
 <img src="https://i.imgur.com/BgsBICA.png">
 
-Project Name: "Red Wine Quality Predictor"
 
 **Description:**
 
